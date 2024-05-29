@@ -8,8 +8,8 @@
 
 <br>
 
-## 🧑‍💻 Perdici BICC (Basic Intensive Care Course)
-This is a web-based Show Case LMS application in the field of medicine. Includes the following sections:
+## 🧑‍💻 Company Profile Milou Farm House
+This is a web-based company profile & Content Management System (CMS). Includes the following sections:
 - Home
 - Menu
 - News
